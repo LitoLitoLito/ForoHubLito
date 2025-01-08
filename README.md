@@ -11,9 +11,10 @@
   <img src="https://img.shields.io/badge/Versión-1.0-blue" alt="Versión">
 </div>
 
-<div style="text-align: center;">
-  <img src="src/main/resources/img-readme/foro_alura_img.png" alt="Imagen del proyecto" style="width: 300px; height: auto;">
-</div>
+## 🧪 Prueba de Endpoint
+
+
+![Prueba de Endpoint](img/insomnia_1.png)
 
 ---
 
